@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./devops-banner.png" width="100%" alt="Ankit Kumar Sharma DevOps Engineer Banner">
+</p>
+
+
+
+
+
+
 # Hi, I'm Ankit Kumar Sharma 👋
 
 <h2 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h2>
