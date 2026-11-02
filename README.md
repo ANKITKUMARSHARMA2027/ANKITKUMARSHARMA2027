@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./devops-banner.png" width="100%" alt="Ankit Kumar Sharma DevOps Engineer Banner">
+  <img src="./devops-banner.png.png" width="100%" alt="Ankit Kumar Sharma DevOps Engineer Banner">
 </p>
 
 
